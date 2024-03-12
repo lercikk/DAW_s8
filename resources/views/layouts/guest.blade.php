@@ -31,10 +31,10 @@
                   </form>
                 <div class="navbar-nav">
                   <a class="nav-link active" aria-current="page" href="#">Home</a>
-                  <a class="nav-link" href="#">Explore</a>
-                  <a class="nav-link" href="#">Pages</a>
-                  <a class="nav-link" href="#">Contact us</a>
-
+                  <a class="nav-link active" href="#">Explore</a>
+                  <a class="nav-link active" href="#">Pages</a>
+                  <a class="nav-link  active" href="#">Contact us</a>
+                  <a class="btn btn-danger" href="#">Connect Wallet</a>
                 </div>
               </div>
             </div>
