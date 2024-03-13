@@ -19,7 +19,7 @@
         <nav class="navbar navbar-expand-lg" data-bs-theme="dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                    <img src="{{ asset('images/logo.png')}}" alt="Logo" class="logo">
+                    <img src="{{ asset('images/logo.png')}}" alt="Logo" class="logo">  Ultra NFT
                   </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -34,7 +34,7 @@
                   <a class="nav-link active" href="#">Explore</a>
                   <a class="nav-link active" href="#">Pages</a>
                   <a class="nav-link  active" href="#">Contact us</a>
-                  <a class="btn btn-danger" href="#">Connect Wallet</a>
+                  <a class="btn btn-bg-light text-white" href="#">Connect Wallet</a>
                 </div>
               </div>
             </div>
